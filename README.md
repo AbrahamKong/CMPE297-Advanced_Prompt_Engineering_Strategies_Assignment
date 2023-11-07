@@ -7,6 +7,7 @@ see different_prompt_techniques.ipynb
 see prompt_templates.ipynb
 
 ## c) diverse prompts
+see diverse_fields_prompts.ipynb
 
 ## d) palm 2 API
 see palm2.ipynb
