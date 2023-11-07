@@ -13,3 +13,4 @@ see palm2.ipynb
 see openai_function_call_spotify.ipynb
 
 ## f) system prompt
+see system_promptipynb
