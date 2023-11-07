@@ -10,5 +10,6 @@
 see palm2.ipynb
 
 ## e) function calls
+see openai_function_call_spotify.ipynb
 
 ## f) system prompt
