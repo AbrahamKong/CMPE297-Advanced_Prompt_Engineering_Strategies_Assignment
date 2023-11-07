@@ -4,6 +4,7 @@
 see different_prompt_techniques.ipynb
 
 ## b) different prompt templates
+see prompt_templates.ipynb
 
 ## c) diverse prompts
 
