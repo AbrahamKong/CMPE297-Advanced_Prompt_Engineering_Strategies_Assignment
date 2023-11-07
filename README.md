@@ -1,6 +1,7 @@
 # CMPE297-Advanced_Prompt_Engineering_Strategies_Assignment
 
 ## a) Illustration all the various prompt engineering techniques
+see different_prompt_techniques.ipynb
 
 ## b) different prompt templates
 
